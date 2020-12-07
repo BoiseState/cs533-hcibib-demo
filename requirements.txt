@@ -1,0 +1,9 @@
+docopt
+pandas>=1.1
+scikit-learn
+scikit-optimize
+notebook
+seaborn
+requests
+html5lib
+tqdm

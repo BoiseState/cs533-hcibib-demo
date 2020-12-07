@@ -24,4 +24,6 @@ __pycache__/
 pythonenv*/
 
 *-bib/
+*-papers/
 bibdata/
+*.csv
