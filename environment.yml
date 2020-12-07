@@ -1,0 +1,13 @@
+name: cs533-bib
+channels:
+- conda-forge
+dependencies:
+- python=3.8
+- docopt
+- pandas>=1.1
+- scikit-learn
+- scikit-optimize
+- notebook
+- requests
+- html5lib
+- tqdm
