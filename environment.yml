@@ -13,3 +13,4 @@ dependencies:
 - requests
 - html5lib
 - tqdm
+- dvc
